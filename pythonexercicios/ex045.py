@@ -11,4 +11,3 @@ elif jogo == e:
     print('Eu escolhi {}, então foi empate!'.format(e))
 else:
     print('Eu escolhi {}, então eu ganhei!!!'.format(e))
-
