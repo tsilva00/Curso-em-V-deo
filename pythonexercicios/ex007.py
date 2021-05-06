@@ -1,3 +1,5 @@
+#código que recebe nome e notas providas pelo usuário e devolve a média entre as duas notas
+
 nome = input('Qual o nome do(a) aluno(a)?')
 nota1 = float(input('Escreva a primeira nota:'))
 nota2 = float(input('Escreva a segunda nota:'))
