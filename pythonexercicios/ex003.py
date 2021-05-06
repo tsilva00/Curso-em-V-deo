@@ -1,3 +1,5 @@
+#código que recebe dois números providos pelo usuário, faz a adição dos dois e devolve o resultado
+
 numero1 = input('Digite um número:')
 numero2 = input('Digite outro número:')
 
